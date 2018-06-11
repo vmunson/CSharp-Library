@@ -18,6 +18,11 @@ namespace classes
             herDonut.isSpecial = false;
 
             Console.WriteLine($"{myDonut.Type} {yourDonut.Price} {herDonut.isSpecial}");
+
+            Hotel hampton = new Hotel();
+
+            hampton.RoomNumber = "B23";
+            hampton.IsAvailable = true;
         }
     }
 }

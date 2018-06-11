@@ -32,6 +32,11 @@ namespace conditionals
                 Console.WriteLine("We can brave any type of weather");
                 break;
             }
+
+            int num = 62;
+
+            string res = ((num == 60) ? "Good Answer" : "Wrong Answer");
+            Console.WriteLine(res);
         }
     }
 }
