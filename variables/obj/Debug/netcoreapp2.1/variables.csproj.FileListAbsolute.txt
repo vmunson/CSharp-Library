@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/variables/bin/Debug/netcoreapp2.1/variables.deps.json
+/Users/gmunson/Documents/c#/variables/bin/Debug/netcoreapp2.1/variables.runtimeconfig.json
+/Users/gmunson/Documents/c#/variables/bin/Debug/netcoreapp2.1/variables.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/variables/bin/Debug/netcoreapp2.1/variables.dll
+/Users/gmunson/Documents/c#/variables/bin/Debug/netcoreapp2.1/variables.pdb
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.dll
+/Users/gmunson/Documents/c#/variables/obj/Debug/netcoreapp2.1/variables.pdb
