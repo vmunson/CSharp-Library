@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/loops/bin/Debug/netcoreapp2.1/loops.deps.json
+/Users/gmunson/Documents/c#/loops/bin/Debug/netcoreapp2.1/loops.runtimeconfig.json
+/Users/gmunson/Documents/c#/loops/bin/Debug/netcoreapp2.1/loops.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/loops/bin/Debug/netcoreapp2.1/loops.dll
+/Users/gmunson/Documents/c#/loops/bin/Debug/netcoreapp2.1/loops.pdb
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.dll
+/Users/gmunson/Documents/c#/loops/obj/Debug/netcoreapp2.1/loops.pdb
