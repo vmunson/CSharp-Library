@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/methods/bin/Debug/netcoreapp2.1/methods.deps.json
+/Users/gmunson/Documents/c#/methods/bin/Debug/netcoreapp2.1/methods.runtimeconfig.json
+/Users/gmunson/Documents/c#/methods/bin/Debug/netcoreapp2.1/methods.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/methods/bin/Debug/netcoreapp2.1/methods.dll
+/Users/gmunson/Documents/c#/methods/bin/Debug/netcoreapp2.1/methods.pdb
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.dll
+/Users/gmunson/Documents/c#/methods/obj/Debug/netcoreapp2.1/methods.pdb
