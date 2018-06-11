@@ -21,7 +21,7 @@ namespace variables
             double bigNumber = 3.1131313d;
             decimal biggestNumber = 4.131313144444444m;
             int otherInteger = 22;
-            Console.WriteLine(integer - otherInteger * integer / otherInteger);
+            Console.WriteLine(integer - otherInteger);
             Console.WriteLine($"The numba rumba {integer}, {number}, {bigNumber}, {biggestNumber}");
 
             bool isTrue = true;

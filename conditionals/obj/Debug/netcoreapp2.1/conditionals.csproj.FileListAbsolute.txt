@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/conditionals/bin/Debug/netcoreapp2.1/conditionals.deps.json
+/Users/gmunson/Documents/c#/conditionals/bin/Debug/netcoreapp2.1/conditionals.runtimeconfig.json
+/Users/gmunson/Documents/c#/conditionals/bin/Debug/netcoreapp2.1/conditionals.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/conditionals/bin/Debug/netcoreapp2.1/conditionals.dll
+/Users/gmunson/Documents/c#/conditionals/bin/Debug/netcoreapp2.1/conditionals.pdb
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.dll
+/Users/gmunson/Documents/c#/conditionals/obj/Debug/netcoreapp2.1/conditionals.pdb
