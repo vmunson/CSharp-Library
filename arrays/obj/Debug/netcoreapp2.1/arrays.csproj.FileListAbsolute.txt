@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/arrays/bin/Debug/netcoreapp2.1/arrays.deps.json
+/Users/gmunson/Documents/c#/arrays/bin/Debug/netcoreapp2.1/arrays.runtimeconfig.json
+/Users/gmunson/Documents/c#/arrays/bin/Debug/netcoreapp2.1/arrays.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/arrays/bin/Debug/netcoreapp2.1/arrays.dll
+/Users/gmunson/Documents/c#/arrays/bin/Debug/netcoreapp2.1/arrays.pdb
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.dll
+/Users/gmunson/Documents/c#/arrays/obj/Debug/netcoreapp2.1/arrays.pdb

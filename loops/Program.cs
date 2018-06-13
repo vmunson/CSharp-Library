@@ -18,6 +18,13 @@ namespace loops
             {
                 Console.WriteLine($"{i} is less than 11");
             }
+
+            string[] teams = {"colts", "texans", "titans", "jaguars"};
+
+            foreach(string team in teams) {
+                Console.WriteLine(team);
+            }
+            
         }
     }
 }
