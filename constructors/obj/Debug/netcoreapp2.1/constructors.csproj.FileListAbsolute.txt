@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/constructors/bin/Debug/netcoreapp2.1/constructors.deps.json
+/Users/gmunson/Documents/c#/constructors/bin/Debug/netcoreapp2.1/constructors.runtimeconfig.json
+/Users/gmunson/Documents/c#/constructors/bin/Debug/netcoreapp2.1/constructors.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/constructors/bin/Debug/netcoreapp2.1/constructors.dll
+/Users/gmunson/Documents/c#/constructors/bin/Debug/netcoreapp2.1/constructors.pdb
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.dll
+/Users/gmunson/Documents/c#/constructors/obj/Debug/netcoreapp2.1/constructors.pdb
