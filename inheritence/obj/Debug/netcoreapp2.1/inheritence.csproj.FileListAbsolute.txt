@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/inheritence/bin/Debug/netcoreapp2.1/inheritence.deps.json
+/Users/gmunson/Documents/c#/inheritence/bin/Debug/netcoreapp2.1/inheritence.runtimeconfig.json
+/Users/gmunson/Documents/c#/inheritence/bin/Debug/netcoreapp2.1/inheritence.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/inheritence/bin/Debug/netcoreapp2.1/inheritence.dll
+/Users/gmunson/Documents/c#/inheritence/bin/Debug/netcoreapp2.1/inheritence.pdb
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.dll
+/Users/gmunson/Documents/c#/inheritence/obj/Debug/netcoreapp2.1/inheritence.pdb
