@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/getSet/bin/Debug/netcoreapp2.1/getSet.deps.json
+/Users/gmunson/Documents/c#/getSet/bin/Debug/netcoreapp2.1/getSet.runtimeconfig.json
+/Users/gmunson/Documents/c#/getSet/bin/Debug/netcoreapp2.1/getSet.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/getSet/bin/Debug/netcoreapp2.1/getSet.dll
+/Users/gmunson/Documents/c#/getSet/bin/Debug/netcoreapp2.1/getSet.pdb
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.dll
+/Users/gmunson/Documents/c#/getSet/obj/Debug/netcoreapp2.1/getSet.pdb
