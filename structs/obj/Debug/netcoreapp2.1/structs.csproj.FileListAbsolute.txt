@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/structs/bin/Debug/netcoreapp2.1/structs.deps.json
+/Users/gmunson/Documents/c#/structs/bin/Debug/netcoreapp2.1/structs.runtimeconfig.json
+/Users/gmunson/Documents/c#/structs/bin/Debug/netcoreapp2.1/structs.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/structs/bin/Debug/netcoreapp2.1/structs.dll
+/Users/gmunson/Documents/c#/structs/bin/Debug/netcoreapp2.1/structs.pdb
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.dll
+/Users/gmunson/Documents/c#/structs/obj/Debug/netcoreapp2.1/structs.pdb
