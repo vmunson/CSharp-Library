@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/enums/bin/Debug/netcoreapp2.1/enums.deps.json
+/Users/gmunson/Documents/c#/enums/bin/Debug/netcoreapp2.1/enums.runtimeconfig.json
+/Users/gmunson/Documents/c#/enums/bin/Debug/netcoreapp2.1/enums.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/enums/bin/Debug/netcoreapp2.1/enums.dll
+/Users/gmunson/Documents/c#/enums/bin/Debug/netcoreapp2.1/enums.pdb
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.dll
+/Users/gmunson/Documents/c#/enums/obj/Debug/netcoreapp2.1/enums.pdb
