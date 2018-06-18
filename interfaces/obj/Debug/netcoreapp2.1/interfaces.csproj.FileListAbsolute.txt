@@ -1,0 +1,11 @@
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.csprojAssemblyReference.cache
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.csproj.CoreCompileInputs.cache
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.AssemblyInfoInputs.cache
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.AssemblyInfo.cs
+/Users/gmunson/Documents/c#/interfaces/bin/Debug/netcoreapp2.1/interfaces.deps.json
+/Users/gmunson/Documents/c#/interfaces/bin/Debug/netcoreapp2.1/interfaces.runtimeconfig.json
+/Users/gmunson/Documents/c#/interfaces/bin/Debug/netcoreapp2.1/interfaces.runtimeconfig.dev.json
+/Users/gmunson/Documents/c#/interfaces/bin/Debug/netcoreapp2.1/interfaces.dll
+/Users/gmunson/Documents/c#/interfaces/bin/Debug/netcoreapp2.1/interfaces.pdb
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.dll
+/Users/gmunson/Documents/c#/interfaces/obj/Debug/netcoreapp2.1/interfaces.pdb
